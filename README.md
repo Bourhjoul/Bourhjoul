@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/a_crocdile" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619483972~hmac=ea27fd60d46c9fb62c8cb71218ab311b" alt="a_crocdile" height="30" width="40" />Abdessamad Bourhjoul</a>
+  <a href="https://twitter.com/a_crocdile" target="blank"><img align="center" src="https://i.imgur.com/zBvGrB2.png" alt="a_crocdile" height="30" width="40" />Abdessamad Bourhjoul</a>
 <a href="https://linkedin.com/in/abdessamad-bourhjoul-35288a203" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1619483840~hmac=4ab680f6c87cd01cf05128375755a94d" alt="abdessamad bourhjoul" height="30" width="40" />Abdessamad Bourhjoul</a>
  <a href="https://www.behance.net/abdessamadbourhjoul" target="blank"><img align="center" src="https://i.imgur.com/iCcydlC.png" alt="abdessamadbourhjoul" height="30" width="40" />Abdessamad Bourhjoul</a>
 </p>
