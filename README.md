@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/a_crocdile" target="blank"><img align="center" src="https://i.imgur.com/zBvGrB2.png" alt="a_crocdile" height="30" width="40" />Abdessamad Bourhjoul</a>
-<a href="https://linkedin.com/in/abdessamad-bourhjoul-35288a203" target="blank"><img align="center" src="https://i.imgur.com/FJ3uGP8.png" alt="abdessamad bourhjoul" height="30" width="40" />Abdessamad Bourhjoul</a>
- <a href="https://www.behance.net/abdessamadbourhjoul" target="blank"><img align="center" src="https://i.imgur.com/iCcydlC.png" alt="abdessamadbourhjoul" height="30" width="40" />Abdessamad Bourhjoul</a>
+  <a href="https://twitter.com/a_crocdile" target="blank"><img align="center" src="https://i.imgur.com/zBvGrB2.png" alt="a_crocdile" height="30" width="30" />Abdessamad Bourhjoul</a>
+<a href="https://linkedin.com/in/abdessamad-bourhjoul-35288a203" target="blank"><img align="center" src="https://i.imgur.com/FJ3uGP8.png" alt="abdessamad bourhjoul" height="30" width="30" />Abdessamad Bourhjoul</a>
+ <a href="https://www.behance.net/abdessamadbourhjoul" target="blank"><img align="center" src="https://i.imgur.com/iCcydlC.png" alt="abdessamadbourhjoul" height="30" width="30" />Abdessamad Bourhjoul</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
