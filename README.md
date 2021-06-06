@@ -2,11 +2,11 @@
 <h3 align="center">Web/App developer</h3>
 
 - 🔭 I’m just published my last project on [EastClothing](https://eastclothing.herokuapp.com/)
-- 🌱 I’m currently learning **React,Express,Mongo,Mobile Dev**
+- 🌱 I’m currently learning **React,Express,Mongo,Redux**
 
 - 💬 Ask me about **Web dev**
 
-- 📫 How to reach me **Abdessamadbourhjoul@gmail.com**
+- 📫 How to reach me ? here is my Email **Abdessamadbourhjoul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
