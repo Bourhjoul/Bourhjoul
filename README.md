@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdessamad bourhjoul</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Hi 👋, I'm Abdessamad bourhjoul</h3>
+<h5 align="center">I build web softwares.</h5>
 
-- 🌱 I’m always learning new things related to web development.
-
-- 📫 How to reach me ? here is my Email **Abdessamadbourhjoul@gmail.com**
+- 🌱 I’m always learning new things related to the web.
